@@ -55,6 +55,7 @@
             android:ems="10"
             android:hint="Digite o preço do Álcool. Ex: 2.50"
             android:inputType="numberDecimal" />
+
     </com.google.android.material.textfield.TextInputLayout>
 
     <com.google.android.material.textfield.TextInputLayout
